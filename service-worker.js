@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mortgage-schedule-graph/precache-manifest.f52c886552f996050563fc6fc8bede85.js"
+  "/mortgage-schedule-graph/precache-manifest.6f42bfdb9d108e7aed5103871194b875.js"
 );
 
 self.addEventListener('message', (event) => {
