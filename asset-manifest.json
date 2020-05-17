@@ -1,15 +1,11 @@
 {
   "files": {
-    "main.js": "/mortgage-schedule-graph/static/js/main.bae78e4a.chunk.js",
-    "main.js.map": "/mortgage-schedule-graph/static/js/main.bae78e4a.chunk.js.map",
-    "runtime-main.js": "/mortgage-schedule-graph/static/js/runtime-main.c1f86822.js",
-    "runtime-main.js.map": "/mortgage-schedule-graph/static/js/runtime-main.c1f86822.js.map",
+    "main.js": "/mortgage-schedule-graph/static/js/main.a3f668ab.chunk.js",
+    "main.js.map": "/mortgage-schedule-graph/static/js/main.a3f668ab.chunk.js.map",
+    "runtime~main.js": "/mortgage-schedule-graph/static/js/runtime~main.ffdb2d81.js",
+    "runtime~main.js.map": "/mortgage-schedule-graph/static/js/runtime~main.ffdb2d81.js.map",
     "index.html": "/mortgage-schedule-graph/index.html",
-    "precache-manifest.6f42bfdb9d108e7aed5103871194b875.js": "/mortgage-schedule-graph/precache-manifest.6f42bfdb9d108e7aed5103871194b875.js",
+    "precache-manifest.4ccc7aad91175139c591a8429ea0324a.js": "/mortgage-schedule-graph/precache-manifest.4ccc7aad91175139c591a8429ea0324a.js",
     "service-worker.js": "/mortgage-schedule-graph/service-worker.js"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.c1f86822.js",
-    "static/js/main.bae78e4a.chunk.js"
-  ]
+  }
 }
